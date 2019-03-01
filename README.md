@@ -1,7 +1,7 @@
 # abbott-as-a-service
 Dianne Abbott Facts-as-a-service for Composer
 
-``` composer install andydixon/abbottfacts ```
+``` composer install "andydixon/abbottfacts 1.*" ```
 
 Then to generate:
 
